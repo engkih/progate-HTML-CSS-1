@@ -1,0 +1,161 @@
+/* header color = #404146 */
+
+a {
+    text-decoration: none;
+}
+
+header a {
+    color: white;
+}
+
+.header-wrapper {
+    background-color: #404146;
+    width: 100%;
+    height: 45px;
+    color: white;
+}
+
+.head-logo {
+    float: left;
+    padding: 10px 20px;
+    letter-spacing: 5px;
+}
+
+.head-logo {
+    font-size: 25px;
+}
+
+.menu-list {
+    float: left;
+}
+
+.lists {
+    list-style: none;
+    padding: 10px 0;
+}
+
+.lists li {
+    float: left;
+    margin: 1px 5px;
+    padding: 0px 3px;
+}
+
+.menu-icon {
+    float: right;
+    padding: 15px;
+    display: none !important;
+}
+
+
+
+
+/* Main content section */
+
+.dot {
+    color: #f1d00e;
+}
+
+.main-title {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.avatar {
+    width: 250px;
+}
+
+.main-title h1 {
+    font-size: 100px;
+    letter-spacing: 20px;
+}
+
+.main-title h2 {
+    font-size: 40px;
+}
+
+.main-message {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 80px 100px;
+}
+
+.project-container {
+    text-align: center;
+    padding: 80px 100px;
+}
+
+.icons {
+    margin: 0 auto;
+    padding-top: 50px;
+    display: flex;
+    flex: auto;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.icon img {
+    width: 300px;
+}
+
+
+.contact {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 80px 100px;
+    color: #7c7d82;
+}
+
+.email-input {
+    width: 300px;
+    margin-bottom: 40px;
+    padding: 5px;
+    border: none;
+}
+
+.message-input {
+    width: 300px;
+    height: 70px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+}
+
+.btn {
+    width: 150px;
+    height: 40px;
+    background-color: #f7e989;
+    border: none;
+    border-radius: 7px;
+}
+
+
+/* Footer section */
+
+footer {
+    height: 100px;
+    background-color: #7c7d82;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+footer h2 {
+    float: left;
+    padding: 20px;
+    letter-spacing: 5px;
+}
+
+.right-footer {
+    float: right;
+    padding: 10px;
+    text-align: left;
+    margin-right: 30px;
+}
+
+.footer-lists {
+    list-style: none;
+    line-height: 20px;
+}
